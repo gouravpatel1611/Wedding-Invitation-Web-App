@@ -1,0 +1,14 @@
+.timer {
+  text-align: center;
+}
+
+.time-box {
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 2vh;
+  margin-bottom: 1vh;
+  
+}
