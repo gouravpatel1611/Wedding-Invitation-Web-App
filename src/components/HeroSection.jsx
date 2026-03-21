@@ -23,7 +23,7 @@ export default function HeroSection() {
           <div><Swastik /></div>
           <div>वक्रतुण्ड महाकाय निर्विघ्नं कुरु मे देव </div>
           <div> <img src={ganeshji} alt="ganesh ji" style={{ width: "50px" }} /> </div>
-          <div>सूर्यकोटि समप्रभ | सर्वकार्येषु सर्वदा ||</div>
+          <div>सूर्यकोटि समप्रभ : | सर्वकार्येषु सर्वदा ||</div>
           <div> <Swastik /> </div>
         </div>
       </div>
