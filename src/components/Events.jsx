@@ -81,7 +81,7 @@ export default function Events() {
 
         {/* Location */}
         <div style={{ marginTop: "20px" }}>
-          <h3>📍 विवाह स्थल</h3>
+          <h3>📍 विवाह स्थल 📍</h3>
           <p>
             ग्राम-पोस्ट: मुड़ागांव (पत्थलगांव), जिला: रायगढ़ <b>(मामा घर)</b>
           </p>
