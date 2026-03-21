@@ -5,7 +5,7 @@ export default function Venue() {
         <h4 style={{ color: "#FFD700", fontSize:"5vw" }}>📞 संपर्क</h4>
       <div style={{fontSize:"7vw" , color:"whitesmoke" , fontWeight:"bold"}}>
         <p style={{ margin: "5px 0" }}>
-          📱 7999868670
+          📱 8719843315
         </p>
         <p style={{ margin: "5px 0" }}>
           📱 6260702385
