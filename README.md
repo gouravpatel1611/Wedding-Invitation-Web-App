@@ -7,7 +7,7 @@ This project transforms traditional wedding cards into a beautiful digital exper
 
 ## 🌐 Live Preview
 
-*(Add your deployed link here)*
+*https://gouravwedding.vercel.app/*
 
 ---
 
