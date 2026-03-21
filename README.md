@@ -98,8 +98,7 @@ http://localhost:3000/?name=Rahul
 
 For any queries or suggestions:
 
-📱 7582959693
-📱 9303321676
+📱 6260702385
 
 ---
 
