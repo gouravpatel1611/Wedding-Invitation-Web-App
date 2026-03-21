@@ -30,7 +30,7 @@ function Countdown() {
 
   return (
     <div className="timer">
-      <div style={{ fontWeight:"bold", marginTop:"1vh"}}>शुभ अवसर तक शेष समय :-</div>
+      <div style={{ fontWeight:"bold", marginTop:"1vh"}}>-: शुभ अवसर तक शेष समय :-</div>
 
       <div className="time-box" >
         <div>{timeLeft.days || 0} दिन</div>
