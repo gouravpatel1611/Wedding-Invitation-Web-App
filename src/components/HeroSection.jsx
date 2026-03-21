@@ -1,37 +1,23 @@
+import title_img from "../assets/shubh_vivah.png";
 
-import Swastik from "./swastik"
-import ganeshji from "../assets/ganeshji.png"
 export default function HeroSection() {
   return (
     <div style={{ display: "flex", flexDirection: "column", boxShadow: "0 0 50px rgba(0,0,0,1)" }}>
-      <div style={{
-        display: "flex", flexDirection: "column", background: "rgba(0,0,0,0.30)"
-      }}>
-
-
-        <div style={{
-          fontSize: "5vw", fontWeight: "bold", textAlign: "center", padding: "10px", color: "yellow"
-        }}>||  श्री गणेशाय नमः  ||</div>
-        <div style={{
-          display: "flex",
-          alignItems: "center",
-          justifyContent: 'space-around',
-          fontSize: "3.5vw",
-          fontWeight: 'bold',
-          textAlign:"center"
-        }}>
-          <div><Swastik /></div>
-          <div>वक्रतुण्ड महाकाय निर्विघ्नं कुरु मे देव </div>
-          <div> <img src={ganeshji} alt="ganesh ji" style={{ width: "40px" }} /> </div>
-          <div>सूर्यकोटि समप्रभ : | सर्वकार्येषु सर्वदा ||</div>
-          <div> <Swastik /> </div>
-        </div>
-      </div>
+     
 
       <div style={{
         display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "space-between"
       }}>
-
+         <img
+        src={title_img}
+        alt="logo"
+        style={{
+         
+          width: "200px",
+          background:"rgba(0,0,0,0.80)",
+          borderRadius:"50px"
+        }}
+      />
         <div style={{
           fontSize: "7vw",
           fontWeight: "bold",
