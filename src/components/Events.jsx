@@ -49,14 +49,14 @@ export default function Events() {
         }}
       >
         {/* Groom */}
-        <div style={{fontSize:"5vw",textAlign:"left", display:"flex",flexDirection:"column",gap:5}}>
-        <div> प्रिय स्नेही स्वजन, </div>
-        <div >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;परमपिता परमेश्वर की असीम अनुकम्पा एवं पूर्वजों के आशीर्वाद से...</div>
+        <div style={{ fontSize: "5vw", textAlign: "left", display: "flex", flexDirection: "column", gap: 5 }}>
+          <div> प्रिय स्नेही स्वजन, </div>
+          <div >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;परमपिता परमेश्वर की असीम अनुकम्पा एवं पूर्वजों के आशीर्वाद से...</div>
         </div>
 
-        <h2 style={{ color: "#FFD700" }}>
+        <h2 style={{ color: "#00fbff" }}>
 
-          चि. <span style={{fontSize:"12vw"}}>झषकेतन</span> (गौरव)
+          चि. <span style={{ fontSize: "12vw" }}>झषकेतन</span> (गौरव)
         </h2>
 
         <p>
@@ -69,8 +69,8 @@ export default function Events() {
         <h2 style={{ margin: "20px 0" }}>❤️ संग ❤️</h2>
 
         {/* Bride */}
-        <h2 style={{ color: "#FFD700" }}>
-          सौ. का. <span style={{fontSize:"12vw"}}>देवकुमारी</span> (चंदा)
+        <h2 style={{ color: "#ff00e6" }}>
+          सौ. का. <span style={{ fontSize: "12vw" }}>देवकुमारी</span> (चंदा)
         </h2>
 
         <p>
@@ -80,7 +80,15 @@ export default function Events() {
         </p>
 
         {/* Location */}
-        <div style={{ marginTop: "30px" , fontSize:"5vw", fontWeight:"bold" }}>
+        <div style={{ marginTop: "20px" }}>
+          <h3>📍 विवाह स्थल</h3>
+          <p>
+            ग्राम-पोस्ट: मुड़ागांव (पत्थलगांव), जिला: रायगढ़ <b>(मामा घर)</b>
+          </p>
+        </div>
+
+        {/* Location */}
+        <div style={{ marginTop: "30px", fontSize: "5vw", fontWeight: "bold" }}>
           <p>
             के मंगल परिणय की मधुर बेला पर पधारकर नवयुगल को आशीर्वाद प्रदान कर हमें अनुग्रहीत करें।
           </p>
@@ -135,7 +143,7 @@ export default function Events() {
         }}
       >
         <div style={{ fontSize: "5.5vw", fontWeight: "bold" }}>-: स्वागतोत्सुक :-</div>
-        <div>कुसुम-गोविन्द, उर्मिला-उमेन्द्र, लीलावती-दासरथी, राधिका-नरेश, दीपकुंवर-घनश्याम, दीपिका-मकरध्वज, बसंती-उतरा (बुआ-फफा)</div>
+        <div>कुसुम-गोविन्द, उर्मिला-उमेन्द्र, लीलावती-दासरथी, राधिका-नरेश, दीपकुंवर-घनश्याम, दीपिका-मकरध्वज, बसंती-उतरा (बुआ-फूफा)</div>
         <div>  रेवती - शौकीलाल (मामा-मामी)</div>
       </div>
 
