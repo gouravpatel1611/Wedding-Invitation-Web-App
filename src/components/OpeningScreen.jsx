@@ -49,7 +49,7 @@ export default function OpeningScreen() {
         style={{ fontSize: "5vw", margin: "auto", position: "relative", top: "28vh", display: "flex", flexDirection: "column", height: "auto", width: "90vw" }}
       >
         <div style={{ fontWeight: "bold" }}>प्रतिष्ठा में ,</div>
-        <div style={{ marginLeft: "10vw" }}>आदरणीय <span style={{ fontSize: "6vw", fontWeight: "bold", marginLeft: "5vw" }}>{name}</span></div>
+        <div style={{ marginLeft: "5vw" }}>आदरणीय <span style={{ fontSize: "6vw", fontWeight: "bold", marginLeft: "5vw" }}>{name}</span></div>
       <div style={{ marginTop:"20px", padding:"5px" ,background: "rgba(0,0,0,0.80)",borderRadius: "40px",boxShadow: "0 0 50px rgba(0,0,0,0.3)"}}>
         <Countdown/>
       </div>
