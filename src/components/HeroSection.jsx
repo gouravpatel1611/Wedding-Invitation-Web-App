@@ -190,7 +190,7 @@ export default function HeroSection() {
           gap:5
         }}
       >
-        <div style={{fontSize:"5.2vw" , fontWeight:"bold"}}>।। आशीर्वाद समारोह एवं स्वरूचिभोज ।।</div>
+        <div style={{fontSize:"5vw" , fontWeight:"bold"}}>।। आशीर्वाद समारोह एवं स्वरूचिभोज ।।</div>
         <div> वैशाख शुक्ल पक्ष दशमी</div>
         <div>  26 अप्रैल 2026, रविवार</div>
         <div> <b> समय:</b> रात्रि 07 बजे से आपके आगमन तक</div>
