@@ -115,11 +115,31 @@ export default function HeroSection() {
         }}
       >
         <div style={{fontSize:"5.5vw" , fontWeight:"bold"}}>।। बारात गमन एवं पाणिग्रहण ।। </div>
+        <div style={{fontSize:"4vw",textAlign:"right",fontWeight:"bold"}}>( रात्रि शुभ लगन में )</div>
         <div>वैशाख शुक्ल पक्ष नवमी</div>
         <div> 25 अप्रैल 2026, शनिवार</div>
       </div>
 
+             <div
+        style={{
+          padding: "5px 5px",
+          background: "rgba(0,0,0,0.50)",
+          textAlign: "center",
+          borderRadius: "10px",
 
+          boxShadow: `
+      0 4px 10px rgba(0,0,0,0.3),
+      0 0 55px rgb(233, 8, 207)
+    `,
+
+          width: "fit-content",
+          margin: "40px auto",
+          fontSize:"5vw",
+        }}
+      >
+        <div> बारात शाम 03 बजे धनागर से मुड़ागाँव (पत्थलगाँव) के लिए प्रस्थान करेगी ।</div>
+
+      </div>
 
       <div
         style={{
@@ -179,26 +199,7 @@ export default function HeroSection() {
 
 
 
-      <div
-        style={{
-          padding: "5px 5px",
-          background: "rgba(0,0,0,0.50)",
-          textAlign: "center",
-          borderRadius: "10px",
-
-          boxShadow: `
-      0 4px 10px rgba(0,0,0,0.3),
-      0 0 55px rgb(233, 8, 207)
-    `,
-
-          width: "fit-content",
-          margin: "40px auto",
-          fontSize:"5vw",
-        }}
-      >
-        <div> बारात शाम 03 बजे धनागर से मुड़ागाँव (पत्थलगाँव) के लिए प्रस्थान करेगी ।</div>
-
-      </div>
+ 
 
 
 
