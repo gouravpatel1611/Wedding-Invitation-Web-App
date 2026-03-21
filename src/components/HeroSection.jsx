@@ -16,13 +16,13 @@ export default function HeroSection() {
           display: "flex",
           alignItems: "center",
           justifyContent: 'space-around',
-          fontSize: "4vw",
+          fontSize: "3.5vw",
           fontWeight: 'bold',
           textAlign:"center"
         }}>
           <div><Swastik /></div>
           <div>वक्रतुण्ड महाकाय निर्विघ्नं कुरु मे देव </div>
-          <div> <img src={ganeshji} alt="ganesh ji" style={{ width: "50px" }} /> </div>
+          <div> <img src={ganeshji} alt="ganesh ji" style={{ width: "40px" }} /> </div>
           <div>सूर्यकोटि समप्रभ : | सर्वकार्येषु सर्वदा ||</div>
           <div> <Swastik /> </div>
         </div>
