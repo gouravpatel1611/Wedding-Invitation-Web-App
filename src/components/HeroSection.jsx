@@ -115,7 +115,7 @@ export default function HeroSection() {
         }}
       >
         <div style={{fontSize:"5.5vw" , fontWeight:"bold"}}>।। बारात गमन एवं पाणिग्रहण ।। </div>
-        <div style={{fontSize:"4vw",textAlign:"right",fontWeight:"bold"}}>( रात्रि शुभ लगन में )</div>
+        <div style={{fontSize:"4vw",textAlign:"right",fontWeight:"bold"}}>( रात्रि शुभ लग्न में )</div>
         <div>वैशाख शुक्ल पक्ष नवमी</div>
         <div> 25 अप्रैल 2026, शनिवार</div>
       </div>
