@@ -26,7 +26,7 @@ function App() {
         backgroundImage: `url(${bgImage})`,
         backgroundSize: "cover",
         backgroundPosition: "center",
-        transform: "scale(1.05)",
+        transform: "scale(1.05) scaleX(-1)",
         zIndex: -2,
       }}
     ></div>
