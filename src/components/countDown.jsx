@@ -2,7 +2,7 @@ import "./style.css";
 import { useEffect, useState } from "react";
 
 function Countdown() {
-  const targetDate = new Date("2026-04-26T19:00:00");
+  const targetDate = new Date("2026-04-25T00:00:00");
 
   const [timeLeft, setTimeLeft] = useState(getTimeLeft());
 
